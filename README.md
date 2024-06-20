@@ -1,3 +1,10 @@
+#Features
+=>Signup 
+=>SignIn 
+=>Creating posts
+=>profile
+Uses Mongodb to store post and cloudinary to store image
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
