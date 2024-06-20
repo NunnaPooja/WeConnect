@@ -1,0 +1,31 @@
+.signin{
+    background-image: url("https://image.shutterstock.com/image-vector/social-media-minimalist-seamless-pattern-260nw-1169160307.jpg");
+background-size: cover;
+flex: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.loginForm{
+    background-color: #1a5993b8;
+    padding: 30px;
+    border:1px solid rgb(143, 135, 135);
+    border-radius: 1px;
+}
+.loginForm2{
+    background-color: #1a5993b8;
+    padding: 20px;
+    margin-top: 5px;
+    border:1px solid rgb(143, 135, 135);
+    border-radius: 1px;
+}
+#login-btn{
+    background-color: #1773ea;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 8px;
+}
